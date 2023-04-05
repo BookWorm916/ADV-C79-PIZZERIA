@@ -1,9 +1,10 @@
 menu_list_array = ["Veg Margherita Pizza",
-                        "Chicken Tandoori Pizza",
-                        "Veg Supreme Pizza",
-                        "Paneer Tikka Pizza",
-                        "Deluxe Veggie Pizza",
-                        "Veg Extravaganza Pizza"];
+                   "Chicken Tandoori Pizza",
+                   "Veg Supreme Pizza",
+                   "Paneer Tikka Pizza",
+                   "Deluxe Veggie Pizza",
+                   "Veg Extravaganza Pizza"
+		  ];
     
     function getmenu(){
         var htmldata="";
